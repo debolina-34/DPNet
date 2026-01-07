@@ -7,7 +7,7 @@ The work includes experiments on **original and amplitude-shifted audio data**, 
 
 ---
 
-## 🔍 Motivation
+## Motivation
 
 Conventional CNNs are often computationally expensive for embedded platforms.  
 DPNet leverages **depthwise separable convolutions** to significantly reduce:
@@ -20,7 +20,7 @@ while maintaining competitive classification performance.
 
 ---
 
-## 🧠 Model Overview
+## Model Overview
 
 - **Architecture**: Depthwise–Pointwise CNN (DPNet)
 - **Input**: Audio features extracted from raw waveforms  
@@ -31,5 +31,8 @@ while maintaining competitive classification performance.
 
 ---
 
-## 🗂️ Project Structure
+## YouTube Link
+
+https://youtu.be/QqQ6c4FGObU
+
 
